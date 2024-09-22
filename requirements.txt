@@ -1,0 +1,8 @@
+langgraph=0.2.22
+langchain=0.3.0
+langchain-openai=0.2.0
+langchain-experimental=0.0.64
+langchain-community=0.3.0
+qdrant-client=1.11.1
+PyMuPDF=1.24.10
+tiktoken=0.7.0
